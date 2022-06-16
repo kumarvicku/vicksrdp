@@ -1,4 +1,7 @@
-<pre><h1 align="center"> 🆅🅸🅲🅺🆂 🆁🅳🅿 </pre>
+<u> VICKS RDP </u>
+By the help of this repository you can make your own rdp for 1-4 hour from github. So, follow link by link step..
+
+
 1. first FORK this repo and follow me if u like my work.
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/84949946/173380101-410b0cf8-1abb-4595-bb3d-df09c3d07312.png)
